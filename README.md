@@ -61,6 +61,17 @@ Developed fault detection logic using current, temperature, and relay monitoring
   <img src="https://github-readme-stats.vercel.app/api?username=benu0311&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benu0311&layout=compact&theme=radical" />
 </p>
+## 🎨 Languages That Power My Projects
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-Control%20Systems%20%26%20Firmware-blue?style=for-the-badge&logo=c%2B%2B" />
+  <img src="https://img.shields.io/badge/JavaScript-Frontend%20%26%20Logic-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/HTML-Web%20Structure-orange?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS-Styling%20%26%20Layout-purple?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/React-Electron%20Apps-lightblue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Arduino-MCU%20Programming-green?style=for-the-badge&logo=arduino" />
+</p>
+
 
 ---
  📫 Connect With Me
